@@ -1,6 +1,6 @@
 # Fun with CSS
 
-!(fun with CSS)[https://i.imgur.com/crLNukw.jpeg]
+![fun with CSS](https://i.imgur.com/crLNukw.jpeg)
 
 This repo is part of __Holberton School__ specialization: __Full Stack__.
 
